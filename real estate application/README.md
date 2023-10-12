@@ -1,4 +1,4 @@
-# PROJECT CODE for ECE 656
+# PROJECT CODE for Database Design course
 
 For our project, we aim to implement a Zillow-style application for users to view potential properties of interest as well as add their own listings for sale.  
 
